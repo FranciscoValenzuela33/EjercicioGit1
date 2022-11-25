@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 texto
 Prueba punto 7
+=======
+este texto fue escrito por fran, equisde
+>>>>>>> 9d2910b75f2fd9b0a62a64a130960e7084bc8f41
